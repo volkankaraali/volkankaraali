@@ -9,7 +9,7 @@ i have been learning to code for 2 years. i tried different software techs and t
 * 🌍  I'm based in istanbul,turkey
 * 🖥️  See my portfolio at [volkankaraali.github.io](http://volkankaraali.github.io)
 * ✉️  You can contact me at [volkankaraali1@gmail.com](mailto:volkankaraali1@gmail.com)
-* 🚀  I'm currently working on [ranna](https://www.ranna.com.tr)
+* 🚀  I'm currently working at [ranna](https://www.ranna.com.tr)
 * 🧠  I'm learning ReactJs
 
 ### Skills
